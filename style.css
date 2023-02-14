@@ -1,8 +1,4 @@
 
-p{
-    font-family: 'Times New Roman', Times, serif;
-}
-
 
 body{
  font-family: 'Times New Roman', Times, serif;
@@ -42,5 +38,9 @@ img{
 h1{
     text-shadow: 2px 2px grey;
     font-family: 'Papyrus', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+}
 
+
+p{
+    font-family: 'Times New Roman', Times, serif;
 }
