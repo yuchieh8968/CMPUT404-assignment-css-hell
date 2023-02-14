@@ -1,0 +1,46 @@
+
+
+body{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 1em;
+ background: linear-gradient(rgb(241, 232, 216), rgb(207, 198, 183));
+ margin-left: 0%;
+ margin-right: 0%;
+ margin-top: 1%;
+ padding-top: 3%;
+ padding-left: 3%;
+ padding-right: 3%;
+
+}
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.toc{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mynote{
+    visibility: hidden;
+}
+
+img{
+    border-radius: 8px;
+    filter: grayscale();
+    
+}
+
+h1{
+    text-shadow: 2px 2px grey;
+    font-family: 'Papyrus', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+}
+
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
