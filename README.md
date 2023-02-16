@@ -23,4 +23,6 @@ Code is licensed under the Apache 2.0 license.
 
 
 Modifications made to the three gutenberg HTML Files:
+=================
 1. appended  <link rel="stylesheet" href="style.css" /> at the end of each headers in the HTML files 
+2. added figcaption to each img line for all gutenberg files
