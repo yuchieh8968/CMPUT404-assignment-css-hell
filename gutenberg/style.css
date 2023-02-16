@@ -1,5 +1,4 @@
 
-
 body{
  font-family: 'Times New Roman', Times, serif;
  font-size: 1em;
@@ -13,17 +12,22 @@ body{
 
 }
 table {
-    text-align: center;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
 }
 
 
 .toc{
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
+
+figcaption{
+    text-align: center;
+    font-family: '';
+}
+
 
 .mynote{
     visibility: hidden;
@@ -37,10 +41,17 @@ img{
 
 h1{
     text-shadow: 2px 2px grey;
+    font-size: 3em;
     font-family: 'Papyrus', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
 }
 
-
+h2{
+    text-align: center;
+}
 p{
     font-family: 'Times New Roman', Times, serif;
+}
+
+.fig{
+    align-items: center;
 }
