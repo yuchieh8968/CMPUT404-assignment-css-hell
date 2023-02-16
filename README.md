@@ -22,6 +22,13 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+<<<<<<< HEAD
 =================
 1. appended  <link rel="stylesheet" href="style.css" /> at the end of each headers in the HTML files 
 2. added figcaption to each img line for all gutenberg files
+=======
+Modifications made to the three gutenberg HTML Files:
+=================
+1. appended  <link rel="stylesheet" href="style.css" /> at the end of each headers in the HTML files 
+2. added figcaption to each img line for all gutenberg files
+>>>>>>> 87afe9d21d85a68b474a808af381a73ec3996925
