@@ -7,8 +7,8 @@ body{
  margin-right: 0%;
  margin-top: 1%;
  padding-top: 3%;
- padding-left: 3%;
- padding-right: 3%;
+ padding-left: 10%;
+ padding-right: 10%;
 
 }
 table {
@@ -18,14 +18,14 @@ table {
 }
 
 
+
 .toc{
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 30%;
 }
 
 figcaption{
     text-align: center;
-    font-family: '';
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
