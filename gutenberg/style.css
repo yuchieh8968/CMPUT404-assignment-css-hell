@@ -36,7 +36,8 @@ figcaption{
 img{
     border-radius: 8px;
     filter: grayscale();
-    
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{

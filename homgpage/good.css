@@ -4,6 +4,24 @@
  text-align: left;
 }
 
+img {
+    max-width: 100%;
+    vertical-align:middle;
+    float:left;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+
+.contact{
+    width: 100%;
+    height: 400px;
+    background-color: lightblue;
+}
+.contactInfo{
+    font-size: 10pt;
+}
 
 .content {
     padding: 20px;
@@ -19,30 +37,28 @@
     margin-left: 15px;
     display: block;
     margin: 2px 0 0 0;
-
 }
 
 
 
-html{
-    background-color: lightblue;
-}
-   
-   /* 
-   
 
-   Your professional history
+
+
+
    
-   What you can do for a potential employer/what you have to offer
-   
-   Then a sidebar of important points they should know about you.
-   
-   Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
-   
-   You should make a page good enough you’d actually use it as your homepage.
-   
-   If you do not want to disclose personal information then you have to make up 
-   the missing information and you do not have to personally identify yourself. 
-   If this is too hard then go on Wikipedia and find a famous figure you like and make a 
-   webpage for them. I expect the quality of “fake” or biography webpages to be of equal 
-   quality to an autobiographical webpage. */
+/* 
+Your professional history
+
+What you can do for a potential employer/what you have to offer
+
+Then a sidebar of important points they should know about you.
+
+Make 1 ugly CSS and 1 good CSS just like the design_hell comic.
+
+You should make a page good enough you’d actually use it as your homepage.
+
+If you do not want to disclose personal information then you have to make up 
+the missing information and you do not have to personally identify yourself. 
+If this is too hard then go on Wikipedia and find a famous figure you like and make a 
+webpage for them. I expect the quality of “fake” or biography webpages to be of equal 
+quality to an autobiographical webpage. */
