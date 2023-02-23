@@ -1,0 +1,41 @@
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    text-align: left;
+    color: white;
+}
+.contactInfo{
+    font-size: 10pt;
+    color: blue;
+}
+img {
+    max-width: 100%;
+    vertical-align:middle;
+    float:left;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.contact{
+    width: 100%;
+    height: 400px;
+    color: white;
+}
+
+.info{
+    color: brown
+}
+
+.history{
+    color: green;
+}
+
+.projects{
+    color:gray
+}
+
+html{
+    background-color: black;
+}
+
+
