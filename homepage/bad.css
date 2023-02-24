@@ -1,11 +1,12 @@
 .name{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size: 15pt;
     text-align: left;
     color: white;
 }
 .contactInfo{
     font-size: 10pt;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     color: blue;
 }
 img {
@@ -19,23 +20,33 @@ img {
 .contact{
     width: 100%;
     height: 400px;
-    color: white;
+    color: white;    
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 .info{
-    color: brown
+    color: brown;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 .history{
     color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 .projects{
-    color:gray
+    color:gray;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 html{
     background-color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 
