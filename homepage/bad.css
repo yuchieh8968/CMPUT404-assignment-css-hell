@@ -46,7 +46,20 @@ img {
 html{
     background-color: black;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-
+    text-align: center;
+    background-image: url(images/bg.jpeg);
 }
 
+.license{
+    color:aquamarine
+}
 
+.offer{
+    color:blueviolet
+}
+img {
+    border-radius: 10px;
+    float:left;
+    max-height: 100%;
+    padding-left: 10%;
+}
